@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(163, 156, 170);
+}
+
+nav{
+   
+    background-color : rgb(164, 164, 187);
+    border: black;
+    padding: 25px;
+    border-radius: 2px;
+    text-align: center;
+    text-decoration-color: black;
+}
+body{
+    background-color: rgb(123, 123, 201);
+}
+.collumn{
+    text-align: center;
+}
+input, button{
+    display: inline-flex;
+    vertical-align: top;
+    margin-left: 1300px;
+}
+footer{
+    text-align: center;
+}
+
+
